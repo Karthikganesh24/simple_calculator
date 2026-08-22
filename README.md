@@ -157,7 +157,7 @@ export default App;
 
 
 ## OUTPUT
-![image](./image/image.png)
+![image](<image/Screenshot 2026-08-22 104606.png>)
 ![image](<./image/Screenshot 2026-08-22 104633.png>)
 
 ## RESULT
