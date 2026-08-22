@@ -157,8 +157,8 @@ export default App;
 
 
 ## OUTPUT
-![image](../image/image.png)
-![image](<../image/Screenshot 2026-08-22 104633.png>)
+![image](./image/image.png)
+![image](<./image/Screenshot 2026-08-22 104633.png>)
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
